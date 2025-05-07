@@ -1,5 +1,5 @@
 {
-  "name": "platzidate",
+  "name": "gerardate",
   "version": "1.0.1",
   "description": "Una utilidad para manejar fechas en formato timestamp y long time.",
   "main": "src/index.js",
